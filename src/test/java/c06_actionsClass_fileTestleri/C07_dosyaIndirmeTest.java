@@ -1,4 +1,4 @@
-package C06_actionsClass_fileTestleri;
+package c06_actionsClass_fileTestleri;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

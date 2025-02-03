@@ -1,4 +1,4 @@
-package C06_actionsClass_fileTestleri;
+package c06_actionsClass_fileTestleri;
 
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.Test;
